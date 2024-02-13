@@ -1,6 +1,6 @@
 # so_long
 
-School Project 42:
+(1/7) School Project 42:
 
 Graphic project, in C language and in 2D, where you can move a character, avoid moving enemies and collect all the items to be able to win.                                                                                                                            
 The graphics library used is that provided by 42 : MinilibX.                                             
